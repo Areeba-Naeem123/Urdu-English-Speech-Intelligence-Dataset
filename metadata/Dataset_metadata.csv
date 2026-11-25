@@ -1,0 +1,2 @@
+dataset_name,source_dataset,source_release,language,recording_count,audio_format,license,transcript_status,speaker_annotation,language_annotation
+Urdu-English Speech Intelligence Dataset,Mozilla Common Voice Scripted Speech,27.0-2026-09-11,Urdu,20,MP3,CC0-1.0,Human verified,Completed,Completed
