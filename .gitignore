@@ -1,0 +1,8 @@
+# Original Common Voice audio
+audio/
+raw_dataset/
+
+# Temporary files
+.DS_Store
+__pycache__/
+*.pyc
