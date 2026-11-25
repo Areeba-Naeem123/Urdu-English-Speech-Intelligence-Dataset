@@ -64,7 +64,7 @@ Urdu-English-Speech-Intelligence-Dataset/
 │
 ├── README.md
 ├── .gitignore
-├── check_dataset.py
+├── dataset_check.py
 │
 ├── metadata/
 │   └── dataset_info.csv
